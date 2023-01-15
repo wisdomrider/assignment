@@ -11,5 +11,5 @@
 
 ### Hosted IN
 
-Link : 
+Link : https://granular-assignment.vercel.app/
 
